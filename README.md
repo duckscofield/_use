@@ -1,4 +1,1 @@
-_use
-====
-
-Note what I used
+Coding, OS, framework, library and tool, anything about computer world.
